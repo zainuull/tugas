@@ -1,0 +1,26 @@
+{
+  "datas": [
+    {
+      "_id": "1697307346319",
+      "name": "Zainul",
+      "address": "Hello World",
+      "destination_city": "Yogyakarta",
+      "price": 400000,
+      "total_buy": 3,
+      "discount": 120000,
+      "total_price": 1080000,
+      "id": 1
+    },
+    {
+      "_id": "1697307360369",
+      "name": "Nurjanah",
+      "address": "Cikampek",
+      "destination_city": "Surabaya",
+      "price": 550000,
+      "total_buy": 10,
+      "discount": 550000,
+      "total_price": 4950000,
+      "id": 2
+    }
+  ]
+}
